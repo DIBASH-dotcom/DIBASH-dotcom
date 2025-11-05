@@ -6,16 +6,18 @@
 - 🔭 I’m currently working with **PHP and React**
 - 🌱 I’m currently learning **React.js**
 - 💬 Ask me about **HTML, CSS, JS, PHP**
-- 📫 How to reach me **your_email@gmail.com**
+- 📫 How to reach me **dibashmagar1010@gmail.com**
 - ⚡ Fun fact **I love learning new tech every day!**
 
 ---
 
 ### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:your_email@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/dibash-magar-06b249384/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/exodia140/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="mailto:dibashmagar1010@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 ---
