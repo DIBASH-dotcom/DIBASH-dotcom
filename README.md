@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dibash Magar</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="My Photo" width="400" src="images/dibash.png">
+
 
 - 🔭 I’m currently working with **PHP and React**
 - 🌱 I’m currently learning **React.js**
