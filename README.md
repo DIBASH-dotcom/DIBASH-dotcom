@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React.js**
 - 💬 Ask me about **HTML, CSS, JS, PHP**
 - 📫 How to reach me **dibashmagar1010@gmail.com**
-- ⚡ Fun fact **I love learning new tech every day!**
+- ⚡ Fun fact **Coding is not fun until you decide it to be!**
 - 🌐 Portfolio: 
   <a href="https://dibashmagar.netlify.app" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" alt="Portfolio" height="20" width="20"/> dibashmagar.netlify.app
