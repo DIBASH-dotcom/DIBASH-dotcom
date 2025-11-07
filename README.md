@@ -4,9 +4,7 @@
 <img align="right" alt="My Photo" width="400" src="images/dibash.png">
 
 
-- 🔭 I’m currently working with **PHP and React**
-- 🌱 I’m currently learning **React.js**
-- 💬 Ask me about **HTML, CSS, JS, PHP**
+
 - 📫 How to reach me **dibashmagar1010@gmail.com**
 - ⚡ Fun fact **Coding is not fun until you decide it to be!**
 - 🌐 Portfolio: 
