@@ -4,13 +4,15 @@
 <img align="right" alt="My Photo" width="400" src="images/dibash.png">
 
 
-
+- 🤖 About me: I’m basically dumb when it comes to coding — I have no basic knowledge. All my repositories are generated with AI, but the projects are completed using AI assistance.
 - 📫 How to reach me **dibashmagar1010@gmail.com**
 - ⚡ Fun fact **Coding is not fun until you decide it to be!**
+
 - 🌐 Portfolio: 
   <a href="https://dibashmagar.netlify.app" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" alt="Portfolio" height="20" width="20"/> dibashmagar.netlify.app
   </a>
+
 
 
 ---
