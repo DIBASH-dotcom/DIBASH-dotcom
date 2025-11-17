@@ -1,26 +1,44 @@
-# Hi there 👋, I'm Dibash Magar  
-### 🚀 AI & Blockchain Enthusiast | Full Stack Developer | Open Source Contributor
+# 👋 Hi, I'm Dibash Magar  
+### 🚀 Junior Developer | Full Stack Enthusiast | Open Source Contributor  
 
 ---
 
-## 🌟 GitHub Stats
-[![Dibash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIBASH-dotcom&show_icons=true&count_private=true&theme=dracula)](https://github.com/DIBASH-dotcom)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBASH-dotcom&layout=compact&theme=dracula)](https://github.com/DIBASH-dotcom)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DIBASH-dotcom&theme=dracula&hide_border=false)](https://github.com/DIBASH-dotcom)  
+![Header Banner](https://github.com/DIBASH-dotcom/DIBASH-dotcom/blob/main/assets/header-banner.gif)  
+*Custom animated banner can include coding animation, terminal, or project icons.*
+
+---
+
+## 🌟 GitHub Stats & Highlights
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DIBASH-dotcom&show_icons=true&count_private=true&theme=radical&hide_title=true&line_height=24" alt="Dibash's GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIBASH-dotcom&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=DIBASH-dotcom&theme=radical&row=2&column=5&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=DIBASH-dotcom&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -32,20 +50,16 @@
 
 ---
 
-## 📈 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DIBASH-dotcom&theme=radical&no-frame=true&no-bg=false&margin-w=10)
-
----
-
 ## ⚡ Recent Activity
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DIBASH-dotcom&theme=react-dark&hide_border=false)
 
 ---
 
-## 🏆 Achievements
-- Contributor to multiple Open Source Projects  
-- Experienced in AI, Blockchain, and Full Stack Development  
-- Holopin & WakaTime badges (optional)  
+## 🎯 Achievements & Highlights
+- 🚀 Contributor to multiple Open Source Projects  
+- 💻 Experienced in C, C++, Python, JavaScript, and Full Stack Development  
+- 🏆 GitHub Trophies & Streaks  
+- 🎨 Custom animated profile banner for GitHub
 
 ---
 
