@@ -1,45 +1,52 @@
-<h1 align="center">Hi 👋, I'm Dibash Magar</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
-
-<img align="right" alt="My Photo" width="400" src="images/dibash.png">
-
-
-- 🤖 About me: I’m basically dumb when it comes to coding — I have no basic knowledge. All my repositories are generated with AI, but the projects are completed using AI assistance.
-- 📫 How to reach me **dibashmagar1010@gmail.com**
-- ⚡ Fun fact **Coding is not fun until you decide it to be!**
-
-- 🌐 Portfolio: 
-  <a href="https://dibashmagar.netlify.app" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" alt="Portfolio" height="20" width="20"/> dibashmagar.netlify.app
-  </a>
-
-
+# Hi there 👋, I'm Dibash Magar  
+### 🚀 AI & Blockchain Enthusiast | Full Stack Developer | Open Source Contributor
 
 ---
 
-### 🌐 Connect with me:
-<p align="left"><a href="https://www.linkedin.com/in/dibash-magar-06b249384/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/exodia140/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:dibashmagar1010@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
+## 🌟 GitHub Stats
+[![Dibash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIBASH-dotcom&show_icons=true&count_private=true&theme=dracula)](https://github.com/DIBASH-dotcom)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBASH-dotcom&layout=compact&theme=dracula)](https://github.com/DIBASH-dotcom)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DIBASH-dotcom&theme=dracula&hide_border=false)](https://github.com/DIBASH-dotcom)  
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left"> 
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ---
 
-### 📊 My GitHub Stats:
-![Dibash's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIBASH-dotcom&show_icons=true&theme=radical)
+## 🌐 Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-DIBASH-dotcom-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/DIBASH-dotcom)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBASH-dotcom&layout=compact&theme=radical)
+---
+
+## 📈 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DIBASH-dotcom&theme=radical&no-frame=true&no-bg=false&margin-w=10)
+
+---
+
+## ⚡ Recent Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DIBASH-dotcom&theme=react-dark&hide_border=false)
+
+---
+
+## 🏆 Achievements
+- Contributor to multiple Open Source Projects  
+- Experienced in AI, Blockchain, and Full Stack Development  
+- Holopin & WakaTime badges (optional)  
+
+---
+
+*"Code is like humor. When you have to explain it, it’s bad." – Cory House*  
