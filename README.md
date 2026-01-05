@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dibash Magar</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A dumb ai  frontend developer from Nepal</h3>
 
 <img align="right" alt="My Photo" width="400" src="images/dibash.png">
 
